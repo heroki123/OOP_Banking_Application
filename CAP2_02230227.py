@@ -1,7 +1,5 @@
-#####################################
-#References
+################References###############
 #https://realpython.com/python3-object-oriented-programming/
-#https://github.com/topics/banking-system?l=pythonk
 #https://www.w3schools.com/python/
 #https://youtu.be/xTh-ln2XhgU(YOUTUBE video of 23min, 23sec)
 ######################################
